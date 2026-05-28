@@ -5,7 +5,8 @@
 🌱 Currently learning advanced web development
 
 ## 🛠 Tech Stack
-HTML | CSS | JavaScript | React.js | Node.js | Express.js | MongoDB | Java
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,git,github,vscode)](https://skillicons.dev)
 
 ## 🚀 Projects
 
