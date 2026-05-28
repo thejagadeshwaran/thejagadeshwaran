@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋 I'm Jagadeshwaran
 
-<!--
-**thejagadeshwaran/thejagadeshwaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer  
+🚀 MERN Stack Developer  
+🌱 Currently learning advanced web development
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+HTML | CSS | JavaScript | React.js | Node.js | Express.js | MongoDB | Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+### Portfolio Builder
+A MERN stack app for creating professional portfolios.
+
+### TaskManager Pro
+Task management system with dashboard and authentication.
+
+## 📫 Connect With Me
+LinkedIn: your-linkedin  
+GitHub: your-github
