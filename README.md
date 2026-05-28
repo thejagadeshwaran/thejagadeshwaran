@@ -8,12 +8,17 @@
 HTML | CSS | JavaScript | React.js | Node.js | Express.js | MongoDB | Java
 
 ## 🚀 Projects
+
 ### Portfolio Builder
-A MERN stack app for creating professional portfolios.
+A MERN stack app to build professional portfolios.
 
 ### TaskManager Pro
-Task management system with dashboard and authentication.
+A task management application with dashboard and authentication.
 
 ## 📫 Connect With Me
-LinkedIn: your-linkedin  
-GitHub: your-github
+
+GitHub: https://github.com/thejagadeshwaran
+
+LinkedIn: https://www.linkedin.com/in/thejagadeshwaran/
+
+Portfolio: https://portfolio-builder-navy-eight.vercel.app/
